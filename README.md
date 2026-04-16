@@ -24,8 +24,9 @@ python S3_save_edge_index.py
 ```
 
 2) run offline detection.
-
-    python run_offline_model.py
+```bash
+python run_offline_model.py
+```
 
 ### Incremental Social Event Detection
 
