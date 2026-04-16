@@ -15,14 +15,15 @@ This repository contains the source code and preprocessed dataset for the **WWW 
     pip install requirements.txt
 
 ### Offline Social Event Detection
-1) data_processing
-- to generate the initial textural features and indices for the messages.  
 
+1) data_processing. to generate the initial textural features and indices for the messages.
+```bash
+cd data_process
+python S2_generate_initial_features.py
+python S3_save_edge_index.py
+```
 
-    cd data_process  
-    python S2_generate_initial_features.py      
-    python S3_save_edge_index.py
-2) run offline detection
+2) run offline detection.
 
     python run_offline_model.py
 
