@@ -1,6 +1,6 @@
 ## PIGCN
 
-This repository contains the source code and preprocessed dataset for the **WWW 2026 (<font color=red>acceptance rate: 20.1% (676 out of 3370)</font>)**  paper "[PIGCN: Physics-Inspired Graph Convolution Networks for Heterogeneous Social Event Detection](https://ieeexplore.ieee.org/)".
+This repository contains the source code and preprocessed dataset for the **WWW 2026 (<font color=red>acceptance rate: 20.1% (676 out of 3370), Oral paper</font>)** "[PIGCN: Physics-Inspired Graph Convolution Networks for Heterogeneous Social Event Detection](https://ieeexplore.ieee.org/)".
 
 ---
 ## Method Architecture
@@ -32,8 +32,16 @@ python run_offline_model.py
 
 ---
 
-## Visualization of Wave-based Oscillatory Propagation
+## PIGCN Visualization
+
+### Wave-based Oscillatory Propagation
 
 For an intuitive illustration of wave-based oscillatory propagation dynamics in social message diffusion, you may find helpful when seeing the final figure in the WWW’26 paper: “Effective and Unsupervised Social Event Detection and Evolution via RAG and Structural Entropy.”
 
 ![Social Event Evolution Visualization](Social_Event_Evolution.png)
+
+---
+
+## Citation
+
+Yongsheng Yu, Congbo Ma, Zitai Qiu, Shan Xue, Jian Yang, and Jia Wu. 2026. PIGCN: Physics-Inspired Graph Convolution Networks for Heterogeneous Social Event Detection. In Proceedings of the ACM Web Conference 2026 (WWW '26). Association for Computing Machinery, New York, NY, USA, 992–1003. https://doi.org/10.1145/3774904.3792354
