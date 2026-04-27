@@ -44,4 +44,4 @@ For an intuitive illustration of wave-based oscillatory propagation dynamics in 
 
 ## Citation
 
-Yongsheng Yu, Congbo Ma, Zitai Qiu, Shan Xue, Jian Yang, and JiaWu. 2026. PIGCN: Physics-Inspired Graph Convolution Networks for Heterogeneous Social Event Detection. In Proceedings of the ACM Web Conference 2026 (WWW ’26), April 13–17, 2026, Dubai, United Arab Emirates. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3774904.3792354 (<font color=red>oral paper</font>)
+Yongsheng Yu, Congbo Ma, Zitai Qiu, Shan Xue, Jian Yang, and JiaWu. 2026. PIGCN: Physics-Inspired Graph Convolution Networks for Heterogeneous Social Event Detection. In Proceedings of the ACM Web Conference 2026 (WWW ’26), April 13–17, 2026, Dubai, United Arab Emirates. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3774904.3792354
